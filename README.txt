@@ -52,7 +52,7 @@ my_cross_val - takes four parameters that are model, data, target and the diagon
                The reason why I modified the method is that the instruction said, "my_cross_val must be your (e.g., code you developed in HW1 with modification as needed)
 cov_generator - This is the function that only used to generate the covariance metrices for each class. 
 
-hw2q3.py
+driver.py
 This is only used for calling model, fiting, predicting, and shows the error rates of each model and each data I used.
 
 
