@@ -1,7 +1,7 @@
 Kyeongtak Han / Han00127 / Han00127@umn.edu 
 -- How to run
-unzip all files in the same directory. Open the terminal then types "python3 hw2q3.py" 
-hw2q3.py is the wrapper code that deal with the data preprocessing and call the multigaussian class. 
+unzip all files in the same directory. Open the terminal then types "python3 driver.py" 
+driver.py is the wrapper code that deal with the data preprocessing and call the multigaussian class. 
 
 For the programming part, there are two main python programs: multigaussian.py and hw2q3.py. All codes are written by Python 
 
