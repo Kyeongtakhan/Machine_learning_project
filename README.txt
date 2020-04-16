@@ -49,7 +49,6 @@ Constructor -  takes two variables, the number of classes in data, and the dimen
 Fit - takes three parameters, data, target and bool value that represents the digonality of the covariance metrices.
 Predict - takes one parameter for the testing data and it returns the predicted labeled data. 
 my_cross_val - takes four parameters that are model, data, target and the diagonality of the covariance.
-               The reason why I modified the method is that the instruction said, "my_cross_val must be your (e.g., code you developed in HW1 with modification as needed)
 cov_generator - This is the function that only used to generate the covariance metrices for each class. 
 
 driver.py
